@@ -40,8 +40,7 @@ The project's `pom.xml` file includes Maven dependencies and plugins. Below are 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/swagger-petstore-regression.git
-   cd swagger-petstore-regression
+   git clone https://github.com/roboot696/petStoreApi.git
 
 2. **Install dependencies using Maven**
 
@@ -51,5 +50,5 @@ The project's `pom.xml` file includes Maven dependencies and plugins. Below are 
     
 ## Performance Tests
 
-Performance tests are available in [this repository](https://github.com/roboot696/performanceApiPetStore).
+Performance tests are available in [this repository](https://github.com/roboot696/performanceApiPetStore.git).
 
